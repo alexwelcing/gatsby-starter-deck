@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: src/slides.md
+  label: Presentation
+  match: "**/*"
 - type: heading
   label: Navigation
 upload_dir: uploads
