@@ -28,6 +28,12 @@ Here's the source of the first slide:
     Create presentations using Gatsby & React.
 
 ***
+Here's the source of the second slide:
+
+    # Gatsby Deck
+    
+    Create presentations using Gatsby & React.
+***
 
 ![Monkey](//i.imgur.com/PnbINJ6.gif)
 
